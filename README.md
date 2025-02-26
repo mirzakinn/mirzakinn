@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mirza</h1>
 <h3 align="center">A computer engineer student from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzakinn&label=Profile%20views&color=0e75b6&style=flat" alt="mirzakinn" /> </p>
-
 - 🔭 I’m currently working on **CS50**
 
 - 🌱 I’m currently learning **coding**
@@ -18,9 +16,5 @@
 - 📫 How to reach me **you know how to reach me**
 
 - ⚡ Fun fact **the guy who tweeted about the frozen guard is my friend is my bro**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzakinn&show_icons=true&locale=en" alt="mirzakinn" /></p>
