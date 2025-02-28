@@ -5,7 +5,4 @@
 
 - 🌱 I’m currently learning **coding**
 
-- 👨‍💻 All of my projects are available at [nowhere](nowhere)
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzakinn&show_icons=true&locale=en" alt="mirzakinn" /></p>
