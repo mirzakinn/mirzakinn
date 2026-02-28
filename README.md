@@ -1,8 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mirza</h1>
-<h3 align="center">A computer engineer student from Turkey</h3>
+# Hi there, I'm [Mirzahan Akın] 👋
 
-- 🔭 I’m currently working on **CS50x**
+I'm a 3rd-year Computer Engineering student with a strong passion for **Artificial Intelligence, Machine Learning, and Backend Development**. I enjoy solving complex problems, building efficient systems, and continuously learning new technologies.
 
-- 🌱 I’m currently learning **coding**
+### 🚀 What I'm Up To
+* 🎓 Studying Computer Engineering at Aydın Adnan Menderes University.
+* ⚙️ Currently diving deep into **Backend Development** (building APIs with FastAPI).
+* 👁️ Taking an Image Processing course and documenting my weekly progress.
+* 🤖 Exploring the world of **AutoML** and machine learning models.
+* 🌟 Leading the community as the **Club President & Campus Ambassador** for Huawei Student Developers (HSD).
+* 🏆 Proud graduate of **Harvard's CS50**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirzakinn&show_icons=true&locale=en" alt="mirzakinn" /></p>
+### 🛠️ Tech Stack
+* **Languages:** Python, C, SQL
+* **Data Science & ML:** Scikit-Learn, Pandas, NumPy
+* **Frameworks:** FastAPI
+
+### 📫 How to reach me
+* [LinkedIn Profile](https://linkedin.com/in/kullaniciadin](https://www.linkedin.com/in/mirzahan-akin/)
+* [E-mail](mailto:mirzahanakin@gmail.com)
