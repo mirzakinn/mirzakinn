@@ -1,4 +1,4 @@
-# Hi there, I'm [Mirzahan Akın] 👋
+# Hi there, I'm Mirzahan Akın 👋
 
 I'm a 3rd-year Computer Engineering student with a strong passion for **Artificial Intelligence, Machine Learning, and Backend Development**. I enjoy solving complex problems, building efficient systems, and continuously learning new technologies.
 
@@ -16,5 +16,5 @@ I'm a 3rd-year Computer Engineering student with a strong passion for **Artifici
 * **Frameworks:** FastAPI
 
 ### 📫 How to reach me
-* [LinkedIn Profile](https://linkedin.com/in/kullaniciadin](https://www.linkedin.com/in/mirzahan-akin/)
+* [LinkedIn Profile](https://www.linkedin.com/in/mirzahan-akin/)
 * [E-mail](mailto:mirzahanakin@gmail.com)
